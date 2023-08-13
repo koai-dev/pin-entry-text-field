@@ -2,7 +2,7 @@ name: pin_entry_text_field
 description: Fully customizable Pin Entry TextField for flutter, This widget accepts pin of any length and it detects the entry of the last pin.
 version: 0.1.4
 author: Godson Ositadinma <prestigegodson@gmail.com>
-homepage: https://github.com/prestigegodson/pin-entry-text-field
+homepage: https://github.com/koai-dev/pin-entry-text-field
 
 dependencies:
   flutter:
